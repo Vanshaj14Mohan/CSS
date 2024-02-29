@@ -4,8 +4,9 @@ h1{
 }
 
 h3{
-    color:aqua;
+    color:yellow;
     background-color: coral;
+    font-size: 30px;
 }
 
 h2{
@@ -14,10 +15,12 @@ h2{
     font-weight: bold; 
     text-decoration: blue underline;
     letter-spacing: 5px;
+    font-size: 20px;
 }
 
 p{
     color:crimson;
     background-color:aqua;
     font-weight: bold;
+    font-size: 20px;
 }
