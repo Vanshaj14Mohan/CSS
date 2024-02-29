@@ -8,13 +8,12 @@ h3{
     background-color: coral;
 }
 
-h4{
+h2{
     color:brown;
     text-align:center;
-    font-weight: bold;
+    font-weight: bold; 
     text-decoration: blue underline;
-    /* color:chartreuse;
-    text-decoration: underline; */
+    letter-spacing: 5px;
 }
 
 p{
